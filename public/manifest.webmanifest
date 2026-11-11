@@ -1,0 +1,9 @@
+{
+  "name": "Zeakus Institution",
+  "short_name": "Zeakus",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3B003F",
+  "icons": []
+}

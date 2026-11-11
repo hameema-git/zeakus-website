@@ -1,0 +1,16 @@
+{
+  "name": "ZEAKUS Trainer Portal",
+  "short_name": "Zeakus Trainer",
+  "description": "ZEAKUS Institution trainer portal",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#3B003F",
+  "theme_color": "#3B003F",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
